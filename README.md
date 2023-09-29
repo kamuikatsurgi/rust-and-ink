@@ -1,4 +1,4 @@
-### Commands List
+### Terminal Commands List
 
 - cargo build
 - cargo run
