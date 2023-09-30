@@ -11,3 +11,11 @@ colored = "2.0.0"
 [[bin]]
 name = "guessing_game"
 path = "src/guessing_game.rs"
+
+[[bin]]
+name = "birds"
+path = "src/birds.rs"
+
+[[bin]]
+name = "advanced-basics"
+path = "src/advanced-basics.rs"
