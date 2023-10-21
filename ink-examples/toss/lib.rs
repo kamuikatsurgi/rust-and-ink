@@ -1,5 +1,7 @@
 #![cfg_attr(not(feature = "std"), no_std, no_main)]
 
+pub use self::toss::TossRef;
+
 #[ink::contract]
 mod toss {
     use ink::storage::Mapping;
